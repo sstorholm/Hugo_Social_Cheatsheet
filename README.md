@@ -4,9 +4,26 @@ A cheat sheet for params.social on Hugo-powered sites
 These are tested to work with the Font Awesome iconography.
 
 ### Facebook
-
+```
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "#"
+```
 ### Twitter
-
+```
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/BillGates"
+```
+### LinkedIn
+```
+[[params.social]]
+  medium = "Linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/williamhgates/"  
+```
 ### Telephone
 ```
 [[params.social]]
@@ -15,7 +32,12 @@ These are tested to work with the Font Awesome iconography.
   link = "tel:+1-123-4567-890
 ```
 ### E-Mail
-
+```
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:nobody@example.com"
+```
 ### Github
 ```
 [[params.social]]
@@ -23,3 +45,12 @@ These are tested to work with the Font Awesome iconography.
   icon = "github"
   link = "https://github.com/sstorholm"
 ```
+### Dribbble
+```
+[[params.social]]
+  medium = "Dribbble"
+  icon = "dribbble"
+  link = "#"
+```
+
+
