@@ -3,16 +3,13 @@ A cheat sheet for params.social on Hugo-powered sites
 
 These are tested to work with the Font Awesome iconography.
 
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
-
-- [Hugo_Social_Cheatsheet](#)
-		- [Facebook](#)
-		- [Twitter](#)
-		- [LinkedIn](#)
-		- [Telephone](#)
-		- [E-Mail](#)
-		- [Github](#)
-		- [Dribbble](#)
+- [Facebook](#)
+- [Twitter](#)
+- [LinkedIn](#)
+- [Telephone](#)
+- [E-Mail](#)
+- [Github](#)
+- [Dribbble](#)
 
 ### Facebook
 ```
