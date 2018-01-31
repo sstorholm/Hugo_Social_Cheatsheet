@@ -3,13 +3,13 @@ A cheat sheet for params.social on Hugo-powered sites
 
 These are tested to work with the Font Awesome iconography.
 
-- [Facebook](#Facebook)
-- [Twitter](#)
-- [LinkedIn](#)
-- [Telephone](#)
-- [E-Mail](#)
-- [Github](#)
-- [Dribbble](#)
+- [Facebook](#facebook)
+- [Twitter](#twitter)
+- [LinkedIn](#linkedin)
+- [Telephone](#telephone)
+- [E-Mail](#e-mail)
+- [Github](#github)
+- [Dribbble](#dribbble)
 
 ### Facebook
 ```
