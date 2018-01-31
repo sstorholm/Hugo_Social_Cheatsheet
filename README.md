@@ -3,7 +3,7 @@ A cheat sheet for params.social on Hugo-powered sites
 
 These are tested to work with the Font Awesome iconography.
 
-- [Facebook](#)
+- [Facebook](#Facebook)
 - [Twitter](#)
 - [LinkedIn](#)
 - [Telephone](#)
