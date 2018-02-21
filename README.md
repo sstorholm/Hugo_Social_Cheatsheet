@@ -11,6 +11,7 @@ These are tested to work with the Font Awesome iconography.
 - [Github](#github)
 - [Dribbble](#dribbble)
 - [Bitcoin](#bitcoin)
+- [PayPal](#paypal)
 
 ### Facebook
 ```
@@ -75,6 +76,22 @@ or
   medium = "Bitcoin"
   icon = "btc"
   link = "bitcoin:3QJmV3qfvAf3sRCW3qSinyC"
+```
+
+### PayPal
+
+```
+[[params.social]]
+  medium = "PayPal"
+  icon = "paypal"
+  link = "paypal.me/sstorholm"
+```
+or
+```
+[[params.social]]
+  medium = "PayPal"
+  icon = "cc-paypal"
+  link = "paypal.me/sstorholm"
 ```
 
 
