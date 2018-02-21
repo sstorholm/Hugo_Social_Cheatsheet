@@ -10,6 +10,7 @@ These are tested to work with the Font Awesome iconography.
 - [E-Mail](#e-mail)
 - [Github](#github)
 - [Dribbble](#dribbble)
+- [Bitcoin](#bitcoin)
 
 ### Facebook
 ```
@@ -60,5 +61,21 @@ These are tested to work with the Font Awesome iconography.
   icon = "dribbble"
   link = "#"
 ```
+
+### Bitcoin
+```
+[[params.social]]
+  medium = "Bitcoin"
+  icon = "bitcoin"
+  link = "bitcoin:3QJmV3qfvAf3sRCW3qSinyC"
+```
+or
+```
+[[params.social]]
+  medium = "Bitcoin"
+  icon = "btc"
+  link = "bitcoin:3QJmV3qfvAf3sRCW3qSinyC"
+```
+
 
 
